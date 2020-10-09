@@ -41,6 +41,10 @@
 *.VC.db
 *.VC.opendb
 
+# Large files
+ProjectFactory/Content/Sounds/
+ProjectFactory/Content/StarterContent/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
